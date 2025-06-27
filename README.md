@@ -6,4 +6,4 @@ Fixes include:
 - Stacked Click delay fix
 - Double click fix 
 
-Should work wit hany autoterms mod, its a chatriggers module, so standard install.
+Should work with any autoterms mod, its a chatriggers module, so standard install.
